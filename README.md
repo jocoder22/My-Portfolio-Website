@@ -10,6 +10,6 @@ The page at minimum includes all of the following:
 - a logo.
 
 #### Semantic HTML:
-- HTML5 semantic tags such as (<header>), <footer>, <article>, <section> etc. are used to add meaning to the code.
-- No <div> or <section> tags are without a CSS class or id.
-- Check out the W3C documentation on HTML Structural Elements to learn more!
+- HTML5 semantic tags such as `<header>`, `<footer>`, `<article>`, `<section>` etc. are used to add meaning to the code.
+- No `<div>` or `<section>` tags are without a CSS class or id.
+- Check out the W3C documentation on [HTML Structural Elements](https://www.w3.org/wiki/HTML_structural_elements) to learn more!
