@@ -1,4 +1,5 @@
 # Portfolio-Project
+
 This project is to build a website of a design mockup using HTML and CSS.
 
 # Design :
@@ -117,3 +118,6 @@ Files are organized with a directory structure that separates files based on fun
 
 `HTML` templates and documents use `UTF-8 encoding`. (no `BOM`) i.e. `<meta charset="utf-8">`.
 *[Optional] Mark todos and action items with `TODO`
+=======
+
+
