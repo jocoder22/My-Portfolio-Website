@@ -117,6 +117,7 @@ Files are organized with a directory structure that separates files based on fun
 #### General Meta Rules :
 
 `HTML` templates and documents use `UTF-8 encoding`. (no `BOM`) i.e. `<meta charset="utf-8">`.
+
 **[Optional]* Mark todos and action items with `TODO`
 
 
