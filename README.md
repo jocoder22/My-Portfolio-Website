@@ -27,7 +27,7 @@ Provide at least one of the following customizations:
 #### Grid-Based Layout:
 Page utilizes a grid-based layout with styles making use of the `flexbox` layout or a framework like `Bootstrap`, `Foundation`, etc. 
 
-If you're using `Bootstrap` or standard `HMTL/CSS`: the rows and columns of the grid must be wrapped in an element with a `container` class.
+Using `Bootstrap` or standard `HMTL/CSS`: the rows and columns of the grid are be wrapped in an element with a `container` class.
 
 
 # Responsiveness:
@@ -39,9 +39,10 @@ All content is responsive and displays on all display sizes. This includes:
 - Desktop
 - Mobile: Google Nexus 5
 - Tablet: Apple iPad
+
 An image's associated title and text renders next to the image in all viewport sizes.
 
-*TIP:* Test responsiveness with Chrome Developer Tools device emulation by right-clicking anywhere on page, selecting ‘Inspect Element’, clicking the rectangle to the left of the Elements tab, select Apple iPad or Google Nexus 5 from Device drop-down list, and click reload.
+*TIP:* To test responsiveness with Chrome Developer Tools device emulation by right-clicking anywhere on page, selecting ‘Inspect Element’, clicking the rectangle to the left of the Elements tab, select Apple iPad or Google Nexus 5 from Device drop-down list, and click reload.
 
 #### Provide All Content:
 
