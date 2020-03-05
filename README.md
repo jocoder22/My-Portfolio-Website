@@ -34,7 +34,7 @@ For `Bootstrap` or standard `HMTL/CSS`: the rows and columns of the grid are be 
 
 #### Cross-Device Compatibility:
 
-All content is responsive and displays on all display sizes. This includes:
+All contents are responsive and displays on all display sizes. This includes:
 
 - Desktop
 - Mobile: Google Nexus 5
