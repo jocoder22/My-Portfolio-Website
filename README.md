@@ -46,7 +46,7 @@ An image's associated title and text renders next to the image in all viewport s
 
 #### Provide All Content:
 
-All content is rendered on all three devices. No content should be hidden on mobile devices.
+All contents can be rendered on all three devices. No content hidden on mobile devices.
 
 #### Viewport meta Tag:
 
@@ -78,10 +78,10 @@ Files are organized with a directory structure that separates files based on fun
 
 #### HTML Formatting rules:
 
-- All code ( `HTML` element names, attributes, attribute values) is lowercase (except `text/CDATA`).
+- All codes ( `HTML` element names, attributes, attribute values) are lowercase (except `text/CDATA`).
 - Code does not have trailing white spaces.
 - Indentation is consistent (either all tabs or all 2 spaces or all 4 spaces etc).
-- Code uses a new line for every block, list or table element and indent every such child element (it's acceptable to put all `<li>` elements in one line).
+- Code uses a new line for every block, list or table element and indent every such child element (acceptable to put all `<li>` elements in one line).
 - [Optional] When quoting attribute values, code uses double quotation marks.
 
 #### HTML Style Rules:
