@@ -68,9 +68,9 @@ Portfolio completely separates structure (`HTML`) from design/style (`CSS`). The
 
 Files are organized with a directory structure that separates files based on functionality. For example:
 
-`css/` for stylesheets
-`img/` for images
-`js/` for JavaScript files
+- `css/` for stylesheets
+- `img/` for images
+- `js/` for JavaScript files
 
 
 
