@@ -1,6 +1,6 @@
 # Portfolio-Project
 
-This project is to build a website of a design mockup using HTML and CSS.
+This project is to build a website mockup using HTML and CSS.
 
 # Design :
 #### Required Elements:
