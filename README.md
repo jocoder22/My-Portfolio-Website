@@ -102,7 +102,7 @@ Files are organized with a directory structure that separates files based on fun
 - Code always use a single space between the last selector and the opening brace that begins the declaration block.
 - Code always start a new line for each selector and declaration.
 - Code always put a blank line (two line breaks) between rules.
-- [Optional] Code uses double quotation marks for attribute selectors or property values. Do not use quotation marks in `URI` values (`url()`).
+- Code uses double quotation marks for attribute selectors or property values. Quotation marks are not used in `URI` values (`url()`) 
 
 
 #### CSS Style Rules:
@@ -110,17 +110,17 @@ Files are organized with a directory structure that separates files based on fun
 - Code uses meaningful or generic ID and class names that are as short as possible but as long as necessary.
 - Code does not use element names in conjunction with IDs or classes.
 - Code uses shorthand properties where possible.
-- [Optional] Code omits unit specification after 0 values.
-- [Optional] Code includes leading 0s in decimal values for readability.
-- [Optional] Code uses 3-character hexadecimal notation where possible.
-- [Optional] Code separate words in ID and class names by a hyphen.
-- [Optional] Code avoids user agent detection as well as `CSS` "hacks"—try a different approach first.
+- Code omits unit specification after 0 values.
+- Code includes leading 0s in decimal values for readability.
+- Code uses 3-character hexadecimal notation where possible.
+- Code separate words in ID and class names by a hyphen.
+- Code avoids user agent detection as well as `CSS` "hacks".
 
 #### General Meta Rules :
 
 `HTML` templates and documents use `UTF-8 encoding`. (no `BOM`) i.e. `<meta charset="utf-8">`.
 
-**[Optional]* Mark todos and action items with `TODO`
+
 
 
 
