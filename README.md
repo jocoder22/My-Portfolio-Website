@@ -27,7 +27,7 @@ Provide at least one of the following customizations:
 #### Grid-Based Layout:
 Page utilizes a grid-based layout with styles making use of the `flexbox` layout or a framework like `Bootstrap`, `Foundation`, etc. 
 
-Using `Bootstrap` or standard `HMTL/CSS`: the rows and columns of the grid are be wrapped in an element with a `container` class.
+For `Bootstrap` or standard `HMTL/CSS`: the rows and columns of the grid are be wrapped in an element with a `container` class.
 
 
 # Responsiveness:
@@ -62,11 +62,12 @@ For CSS framework, classes provided by the CSS framework are used to make images
 
 Portfolio completely separates structure (`HTML`) from design/style (`CSS`). There are no `style` attributes present in the body of the `HTML` document. There are no `<style>` elements in the document.
 
-*Note:*  `height` and `width` attributes in maybe included in `<img>` elements.
+*Note:*  `height` and `width` attributes are included in `<img>` elements.
 
 #### File structure :
 
 Files are organized with a directory structure that separates files based on functionality. For example:
+
 `css/` for stylesheets
 `img/` for images
 `js/` for JavaScript files
